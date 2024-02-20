@@ -1,0 +1,22 @@
+Polymorphism: one entity in many forms.
+
+1. Static polymorphism: by concept we can implement using "overloading" concept
+						this we can do with "constructor and method".
+
+=> constructor overloading: redeclaring the constructor by changing parameters of the constructor in a class
+
+=> method overloading: redeclaring the method by changing parameters of the method in a class.
+
+2. Dynamic polymorphism: by concept called "overriding", this we can do with the method
+
+Patient
+	- id
+	- name
+	- problem
+	- bill	
+	+ getDetails(): String
+	
+Address
+	- address
+	- country
+	+ getDetails(): String

@@ -1,0 +1,7 @@
+Abstraction: it is process of hiding complex code implementation, but 
+             only focusing on how use the functionality.
+             
+In Java We can implement abstraction using,
+
+1. Abstract class
+2. Interface class type.

@@ -1,0 +1,6 @@
+Object:
+======
+=> it is predefined class and super/root class for all java classes. 
+   it is part java.lang package.
+   
+=> it has method, which are useful while we are writing the code. 
